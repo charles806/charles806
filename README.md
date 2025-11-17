@@ -1,34 +1,34 @@
-# 👋 Hi, I'm Charles!
+👋 Hi, I'm Charles
 
-I'm a passionate **Full Stack Web Developer** who loves building web apps that look great and work even better.
+I'm a passionate Full-Stack Web Developer who loves building modern, responsive, and high-performance web applications.
 
----
+🚀 About Me
 
-## 🚀 About Me
+💻 I build full-stack applications using PHP/MySQL, MERN Stack, and React Native
 
-- 💻 I build full-stack web applications using **HTML**, **CSS**, **JavaScript**, **PHP**, and **MySQL**
-- ⚛️ Currently learning advanced backend logic, REST APIs, and security best practices
-- 🎯 Focused on creating responsive, user-friendly experiences across all devices
-- 🛠️ Tools I use: VS Code, Git, XAMPP, React, Bootstrap, and more
+🎨 I enjoy crafting clean UI/UX and building smooth, responsive experiences
 
----
+⚙️ I work across both the frontend and backend — from REST APIs to interactive interfaces
 
-## 🌐 Let's Connect
+🧰 Languages & Tools
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> </p>
+🌐 Connect With Me
 
-- 📱 **WhatsApp**: [07032355643](https://wa.me/2347032355643)
-- 📧 **Email**: [c08445333@gmail.com](mailto:c08445333@gmail.com)
-- 🌍 **Based in**: Nigeria
+📱 WhatsApp: 07032355643
 
----
+📧 Email: c08445333@gmail.com
 
-## 💡 Fun Facts
+🌍 Location: Nigeria
 
-- I code like I mean it — frontend or backend, I get the job done
-- Big fan of clean UI, optimized queries, and scalable systems
-- I believe in learning fast, building faster, and helping others along the way
+💡 Fun Facts
 
----
+I code with intention — clean, secure, and scalable solutions always
 
-> *"You don't need to be great to start, but you have to start to be great." – Zig Ziglar*
+Obsessed with UI, performance, and optimized database queries
 
-Thanks for stopping by! Feel free to explore my projects and give a ⭐ if anything inspires you.
+Fast learner, faster builder — always improving and helping others
+
+✨ “You don’t have to be great to start, but you have to start to be great.” — Zig Ziglar
+
+Thanks for visiting my profile!
+Feel free to explore my repositories — and ⭐ anything you like!
